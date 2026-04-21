@@ -270,21 +270,21 @@ export const team = [
     role: "Principal Broker & Managing Director",
     bio: "Twelve years in Zimbabwean short-term insurance — previously at Old Mutual and Alliance. FCII qualified.",
     image:
-      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?auto=format&fit=crop&w=600&q=80",
   },
   {
     name: "Tendai Chikafu",
     role: "Head of Commercial Lines",
     bio: "Specialises in SME and corporate cover — construction, retail, logistics and professional indemnity portfolios.",
     image:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=600&q=80",
   },
   {
     name: "Rudo Nyemba",
     role: "Personal Lines Advisor",
     bio: "Your first point of contact for motor, home, travel and life cover. Known for catching the details everyone else misses.",
     image:
-      "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=600&q=80",
   },
 ];
 
